@@ -1,5 +1,6 @@
 const splitTheBill = (group) => {
   let bill = 0;
+  // Create an array that containing all keys in the object
   Object.keys(group).forEach((key) => {
     bill += group[key];
   });
