@@ -1,0 +1,3 @@
+const splitTheBill = (group) => {
+
+};
